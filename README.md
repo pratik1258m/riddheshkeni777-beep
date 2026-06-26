@@ -91,23 +91,23 @@ const riddhesh = {
 
 <div align="center">
 
-## 🎮 PLAY SUPER MARIO — LIVE IN YOUR BROWSER!
+## 🎮 CODE INVADERS — PLAY MY CUSTOM GAME!
 
-*A fully playable retro Super Mario experience! Click below to launch the game.*
+*A unique, fully playable **Code Invaders** arcade game — built with bugs as enemies, themed around dev culture. Runs directly in your browser!*
 
 <br/>
 
-<a href="https://pratikpatel8982.github.io/mario-riddhesh/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1500&pause=500&color=FFD700&background=1A053380&center=true&vCenter=true&width=520&height=55&lines=🍄+CLICK+TO+PLAY+MARIO!;⬅️➡️+Arrow+Keys+to+Move;⬆️+or+Spacebar+to+Jump!;🌟+Collect+Coins%2C+Beat+Goombas!" alt="Mario Game" />
+<a href="https://riddheshkeni777-beep.github.io/riddheshkeni777-beep/game/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1500&pause=600&color=A855F7&background=0D111780&center=true&vCenter=true&width=560&height=55&lines=👾+CODE+INVADERS+-+CLICK+TO+PLAY!;⬅️➡️+Arrow+Keys+to+Move;SPACE+to+Shoot+Bugs!;🏆+Beat+the+MEGA+BUG+BOSS+on+Level+5!" alt="Code Invaders Game" />
 </a>
 
 <br/>
 
-[![🎮 PLAY MARIO NOW!](https://img.shields.io/badge/🎮_PLAY_MARIO_NOW!-Launch_Game-FF0000?style=for-the-badge&logo=nintendo-switch&logoColor=white&labelColor=1a0533)](https://pratikpatel8982.github.io/mario-riddhesh/)
+[![👾 PLAY CODE INVADERS NOW!](https://img.shields.io/badge/👾_PLAY_CODE_INVADERS!-Launch_Game-7C3AED?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMCAxN2wtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white&labelColor=1a0533)](https://riddheshkeni777-beep.github.io/riddheshkeni777-beep/game/)
 
 <br/>
 
-<img src="https://media.giphy.com/media/YTETDeKcTRtA18AF32/giphy.gif" width="380" alt="Mario Gameplay" style="border-radius:12px;" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" alt="Space Invaders Style Gameplay" style="border-radius:12px;" />
 
 </div>
 
@@ -188,29 +188,32 @@ const riddhesh = {
 
 ## 📊 GITHUB ANALYTICS
 
-</div>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riddheshkeni777-beep&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&count_private=true&include_all_commits=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&langs_count=8" />
+</td>
+<td align="center" width="50%">
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riddheshkeni777-beep&theme=tokyonight&hide_border=true&background=0d1117&fire=a78bfa&ring=7c3aed&currStreakLabel=a78bfa&sideNums=e2e8f0&sideLabels=64748b" width="100%" />
 
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center">
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117&langs_count=8" width="100%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riddheshkeni777-beep&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=1e1b4b" width="95%" />
+</td>
+<td align="center">
 
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riddheshkeni777-beep&theme=tokyonight" width="100%" />
 
-<br/>
-
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=riddheshkeni777-beep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -324,9 +327,9 @@ const riddhesh = {
 
 <div align="center">
 
-## 🌈 3D CONTRIBUTION GRAPH
+## 📈 CONTRIBUTION ACTIVITY
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution History" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riddheshkeni777-beep&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa&area=true&hide_border=true&area_color=2d1b69&custom_title=Riddhesh's%20Contribution%20Graph" width="95%" alt="Contribution Graph" />
 
 </div>
 
@@ -334,13 +337,28 @@ const riddhesh = {
 
 <div align="center">
 
-## 🐍 CONTRIBUTION SNAKE ANIMATION
+## 🏆 GITHUB TROPHIES
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riddheshkeni777-beep/riddheshkeni777-beep/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riddheshkeni777-beep/riddheshkeni777-beep/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/riddheshkeni777-beep/riddheshkeni777-beep/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=riddheshkeni777-beep&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SSS,SS,S,AAA,AA,A,B" width="95%" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 SKILL PROFICIENCY
+
+| Skill | Level | Progress |
+|:------|:------:|:--------:|
+| JavaScript / TypeScript | Expert | `████████████░░` 85% |
+| React.js | Advanced | `███████████░░░` 80% |
+| Node.js / Express | Advanced | `██████████░░░░` 75% |
+| Python & AI APIs | Intermediate+ | `█████████░░░░░` 70% |
+| MongoDB / Databases | Intermediate+ | `█████████░░░░░` 68% |
+| C++ | Intermediate | `████████░░░░░░` 60% |
+| UI/UX & Tailwind | Advanced | `██████████░░░░` 78% |
+| DevOps / Deployment | Intermediate | `████████░░░░░░` 62% |
 
 </div>
 
