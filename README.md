@@ -1,10 +1,10 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Riddhesh%20Keni&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=60&descAlign=50&descSize=18&descColor=c4b5fd" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e40af,100:0f172a&height=200&section=header&text=Riddhesh%20Keni&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration%20Specialist&descAlignY=60&descAlign=50&descSize=18&descColor=c4b5fd" />
 </div>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=🚀+Building+the+Future+of+the+Web;🤖+AI+Integration+Specialist;💡+Full-Stack+Developer+%7C+Mumbai%2C+India;⚡+Code.+Create.+Innovate." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=🚀+Building+the+Future+of+the+Web;🤖+AI+Integration+Specialist;💡+Full-Stack+Developer+%7C+Mumbai%2C+India;⚡+Code.+Create.+Innovate." alt="Typing SVG" /></a>
 
 </div>
 
@@ -55,13 +55,13 @@ const riddhesh = {
 
 ## 🎮 Code Invaders — Play My Custom Game!
 
-> A 100% original arcade game I built — shoot BUG, ERR, NaN, 404 enemies. Beat the MEGA BUG BOSS on Level 5!
+> A **100% original arcade game** — shoot BUG, ERR, NaN, 404 enemies. Beat the **MEGA BUG BOSS** on Level 5!
 
 <div align="center">
 
-[![👾 PLAY CODE INVADERS NOW!](https://img.shields.io/badge/👾%20PLAY%20CODE%20INVADERS!-LAUNCH%20GAME-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a0533)](https://riddheshkeni777-beep.github.io/riddheshkeni777-beep/game/)
+[![👾 PLAY CODE INVADERS NOW!](https://img.shields.io/badge/👾%20PLAY%20CODE%20INVADERS!-LAUNCH%20GAME-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a0533)](https://pratik1258m.github.io/riddheshkeni777-beep/game/)
 
-**Controls:** `← →` Move &nbsp;|&nbsp; `Space` Shoot &nbsp;|&nbsp; `P` Pause &nbsp;|&nbsp; 5 Levels + Boss Fight 🏆
+**Controls:** `← →` Move &nbsp;|&nbsp; `Space` Shoot &nbsp;|&nbsp; `P` Pause &nbsp;|&nbsp; **5 Levels + Boss Fight** 🏆
 
 </div>
 
@@ -128,7 +128,7 @@ const riddhesh = {
 
 ![English](https://img.shields.io/badge/🇬🇧_English-Professional-3B82F6?style=for-the-badge)
 ![Hindi](https://img.shields.io/badge/🇮🇳_Hindi-Professional-F97316?style=for-the-badge)
-![Marathi](https://img.shields.io/badge/🟠_Marathi-Native-10B981?style=for-the-badge)
+![Marathi](https://img.shields.io/badge/🟠_Marathi-Native_Speaker-10B981?style=for-the-badge)
 
 </div>
 
@@ -138,14 +138,17 @@ const riddhesh = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=riddheshkeni777-beep&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img height="180" src="https://streak-stats.demolab.com/?user=riddheshkeni777-beep&theme=tokyonight&hide_border=true&background=0d1117&fire=a855f7&ring=7c3aed&currStreakLabel=a855f7" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=riddheshkeni777-beep&show_icons=true&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="175" src="https://streak-stats.demolab.com/?user=riddheshkeni777-beep&theme=tokyonight&hide_border=true&background=0d1117&fire=a855f7&ring=7c3aed&currStreakLabel=a855f7&sideNums=e2e8f0&sideLabels=64748b&dates=94a3b8" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117&langs_count=8" />
 
 </div>
 
@@ -155,17 +158,7 @@ const riddhesh = {
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=riddheshkeni777-beep&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69)](https://github.com/riddheshkeni777-beep)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=riddheshkeni777-beep&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/riddheshkeni777-beep)
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riddheshkeni777-beep&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" alt="Contribution Graph" />
 
 </div>
 
@@ -174,21 +167,21 @@ const riddhesh = {
 ## 💼 Professional Experience
 
 ### 🏢 Technical Engineer — Regnex
-`📅 June 2024 – Present` &nbsp; `📍 Mumbai, India`
+`📅 June 2024 – Present` &nbsp;·&nbsp; `📍 Mumbai, India`
 
 - 🔧 Coordinated feature engineering and platform optimization protocols
 - 🐛 Conducted software diagnostics and bug resolution alongside SMEs and product leads
 - ✅ Implemented QA processes and platform testing to ensure feature stability
 
 ### 💻 Full-Stack Web Developer — Freelance
-`📅 March 2023 – Present` &nbsp; `🌍 Remote`
+`📅 March 2023 – Present` &nbsp;·&nbsp; `🌍 Remote`
 
 - 🌐 Designed, built, and deployed robust web portals for real clients end-to-end
 - 🏡 Key deployments: **Balaji Farm Stay**, **Riverside Farm**, **Yamuna Enterprises**
 - 📈 Delivered responsive, performance-optimized production applications
 
 ### 🎓 Event Coordinator — Annasaheb Vartak College
-`📅 Academic Years 2022 – 2024` &nbsp; `📍 Mumbai, India`
+`📅 Academic Years 2022 – 2024` &nbsp;·&nbsp; `📍 Mumbai, India`
 
 - 🎯 Organized a job fair for **2,000+ candidates** with **40+ corporate firms**
 - 🏆 Elected Coordinator for technical and cultural festivals
@@ -201,6 +194,7 @@ const riddhesh = {
 <div align="center">
 
 [![InstaHealth](https://github-readme-stats.vercel.app/api/pin/?username=riddheshkeni777-beep&repo=Instahealth&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117)](https://github.com/riddheshkeni777-beep/Instahealth)
+&nbsp;
 [![Veracity](https://github-readme-stats.vercel.app/api/pin/?username=riddheshkeni777-beep&repo=Veracity&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117)](https://github.com/riddheshkeni777-beep/Veracity)
 
 [![GYM Website](https://github-readme-stats.vercel.app/api/pin/?username=riddheshkeni777-beep&repo=GYM-website&theme=tokyonight&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&bg_color=0d1117)](https://github.com/riddheshkeni777-beep/GYM-website)
@@ -211,11 +205,11 @@ const riddhesh = {
 
 | 🌟 | Project | Description | Stack | Status |
 |:--:|:--------|:------------|:------|:------:|
-| 🏥 | **[InstaHealth](https://github.com/riddheshkeni777-beep/Instahealth)** | AI-powered healthcare: medical reports, doctor consultations, medicine alternatives | `React` `Node.js` `MongoDB` `OpenAI` | ✅ Live |
-| 🔍 | **[Veracity](https://github.com/riddheshkeni777-beep/Veracity)** | AI-driven news credibility & intelligent fact-checking tool | `JavaScript` `Claude AI` `REST APIs` | ✅ Live |
-| 🏋️ | **[Goddev Gym](https://github.com/riddheshkeni777-beep/GYM-website)** | Responsive gym landing page with schedules, programs & memberships | `HTML5` `CSS3` `Vanilla JS` | ✅ Live |
+| 🏥 | **[InstaHealth](https://github.com/riddheshkeni777-beep/Instahealth)** | AI-powered healthcare: reports, consultations & medicine alternatives | `React` `Node.js` `MongoDB` `OpenAI` | ✅ Live |
+| 🔍 | **[Veracity](https://github.com/riddheshkeni777-beep/Veracity)** | AI-driven news credibility & intelligent fact-checking | `JavaScript` `Claude AI` `REST APIs` | ✅ Live |
+| 🏋️ | **[Goddev Gym](https://github.com/riddheshkeni777-beep/GYM-website)** | Gym landing page with schedules, programs & memberships | `HTML5` `CSS3` `Vanilla JS` | ✅ Live |
 | 🏡 | **Balaji Farm Stay** | Full-stack hospitality & farm stay booking portal | `React` `Node.js` `MongoDB` | ✅ Deployed |
-| 🌊 | **Riverside Farm** | Nature resort site with integrated booking system | `HTML5` `CSS3` `JS` | ✅ Deployed |
+| 🌊 | **Riverside Farm** | Nature resort site with integrated booking | `HTML5` `CSS3` `JS` | ✅ Deployed |
 | 🏭 | **Yamuna Enterprises** | Corporate web presence with product catalogue | `React` `Tailwind CSS` | ✅ Deployed |
 
 ---
@@ -263,6 +257,6 @@ const riddhesh = {
 
 > *"The best way to predict the future is to build it."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:7c3aed&height=120&section=footer&animation=fadeIn" />
 
 </div>
