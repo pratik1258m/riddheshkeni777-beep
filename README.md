@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=620&lines=🚀+Building+the+Future+of+the+Web;🤖+AI+Integration+Specialist;💡+Full-Stack+Developer+%7C+Mumbai%2C+India;⚡+Code.+Create.+Innovate." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=%F0%9F%9A%80%20Building%20the%20Future%20of%20the%20Web%3B%F0%9F%A4%96%20AI%20Integration%20Specialist%3B%F0%9F%92%A1%20Full-Stack%20Developer%20%7C%20Mumbai%2C%20India%3B%E2%9A%A1%20Code.%20Create.%20Innovate." alt="Typing SVG" /></a>
 
 </div>
 
