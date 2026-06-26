@@ -1,5 +1,9 @@
 # <p align="center">👨‍💻 RIDDHESH KENI</p>
-### <p align="center">Full-Stack & Artificial Intelligence Engineer</p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+Integration+Specialist;Creative+System+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Mumbai_India-3b82f6?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -13,7 +17,7 @@
 
 <hr style="border: 0; height: 1px; background: #334155; margin: 24px 0;" />
 
-### 🎮 RETRO ARCADE PORTAL
+### 🕹️ THE ARCADE PORTAL
 
 In addition to system engineering, I love classic game mechanics. Try out this fully playable HTML5 recreation of Super Mario directly in your browser.
 
@@ -135,6 +139,12 @@ In addition to system engineering, I love classic game mechanics. Try out this f
 
 ### 📊 ANALYTICS & METRICS
 
+#### 📅 3D Contribution Calendar
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution History" />
+</p>
+
+#### 📊 Core Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riddheshkeni777-beep&show_icons=true&title_color=3b82f6&icon_color=0ea5e9&text_color=e2e8f0&bg_color=0f172a" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riddheshkeni777-beep&theme=tokyonight&background=0f172a&fire=3b82f6&ring=10b981&sideNums=e2e8f0&sideLabels=64748b" alt="Streak Stats" />
