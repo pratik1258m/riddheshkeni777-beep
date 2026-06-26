@@ -57,7 +57,7 @@ const riddhesh = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=riddheshkeni777-beep&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+<img width="100%" src="./trophy/trophy.svg" alt="GitHub Trophies" />
 
 </div>
 
