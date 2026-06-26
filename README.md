@@ -53,13 +53,23 @@ const riddhesh = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=riddheshkeni777-beep&theme=onedark&no-frame=true&row=1&column=7&margin-w=15&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## 🎮 Code Invaders — Play My Custom Game!
 
 > A **100% original arcade game** — shoot BUG, ERR, NaN, 404 enemies. Beat the **MEGA BUG BOSS** on Level 5!
 
 <div align="center">
 
-[![👾 PLAY CODE INVADERS NOW!](https://img.shields.io/badge/👾%20PLAY%20CODE%20INVADERS!-LAUNCH%20GAME-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a0533)](https://pratik1258m.github.io/riddheshkeni777-beep/game/)
+[![👾 PLAY CODE INVADERS!](https://img.shields.io/badge/👾%20PLAY%20CODE%20INVADERS!-LAUNCH%20GAME-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a0533)](https://pratik1258m.github.io/riddheshkeni777-beep/game/)
 
 **Controls:** `← →` Move &nbsp;|&nbsp; `Space` Shoot &nbsp;|&nbsp; `P` Pause &nbsp;|&nbsp; **5 Levels + Boss Fight** 🏆
 
@@ -69,8 +79,9 @@ const riddhesh = {
 
 ## 🛠️ Tech Stack & Skills
 
-### 💻 Programming Languages
-
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -81,9 +92,11 @@ const riddhesh = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
+</details>
 
-### ⚛️ Frameworks & Libraries
-
+<details open>
+<summary><b>⚛️ Frameworks & Libraries</b></summary>
+<br/>
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -94,21 +107,25 @@ const riddhesh = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
+</details>
 
-### 🗄️ Databases & AI
-
+<details open>
+<summary><b>🗄️ Databases & AI</b></summary>
+<br/>
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-008080?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
+</details>
 
-### 🔧 Tools & Platforms
-
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br/>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -121,9 +138,11 @@ const riddhesh = {
 ![Celonis](https://img.shields.io/badge/Celonis-000000?style=for-the-badge&logoColor=white)
 
 </div>
+</details>
 
-### 🌐 Spoken Languages
-
+<details open>
+<summary><b>🌐 Spoken Languages</b></summary>
+<br/>
 <div align="center">
 
 ![English](https://img.shields.io/badge/🇬🇧_English-Professional-3B82F6?style=for-the-badge)
@@ -131,10 +150,19 @@ const riddhesh = {
 ![Marathi](https://img.shields.io/badge/🟠_Marathi-Native_Speaker-10B981?style=for-the-badge)
 
 </div>
+</details>
 
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddheshkeni777-beep&theme=tokyonight" alt="Profile Details" />
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -148,7 +176,7 @@ const riddhesh = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riddheshkeni777-beep&layout=compact&theme=tokyonight&hide_border=true&title_color=a855f7&text_color=e2e8f0&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 
 </div>
 
