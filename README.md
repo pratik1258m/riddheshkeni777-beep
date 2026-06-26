@@ -63,15 +63,15 @@ const riddhesh = {
 
 ---
 
-## 🎮 Code Invaders — Play My Custom Game!
-
-> A **100% original arcade game** — shoot BUG, ERR, NaN, 404 enemies. Beat the **MEGA BUG BOSS** on Level 5!
+## 🐍 Watch My Contributions Get Eaten!
 
 <div align="center">
 
-[![👾 PLAY CODE INVADERS!](https://img.shields.io/badge/👾%20PLAY%20CODE%20INVADERS!-LAUNCH%20GAME-7C3AED?style=for-the-badge&logoColor=white&labelColor=1a0533)](https://pratik1258m.github.io/riddheshkeni777-beep/game/)
-
-**Controls:** `← →` Move &nbsp;|&nbsp; `Space` Shoot &nbsp;|&nbsp; `P` Pause &nbsp;|&nbsp; **5 Levels + Boss Fight** 🏆
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
