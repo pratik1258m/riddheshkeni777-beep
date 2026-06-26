@@ -202,21 +202,21 @@ const riddhesh = {
 ## 💼 Professional Experience
 
 ### 🏢 Technical Engineer — Regnex
-`📅 June 2024 – Present` &nbsp;·&nbsp; `📍 Mumbai, India`
+`📅 June 2026 – Present` &nbsp;·&nbsp; `📍 Mumbai, India`
 
 - 🔧 Coordinated feature engineering and platform optimization protocols
 - 🐛 Conducted software diagnostics and bug resolution alongside SMEs and product leads
 - ✅ Implemented QA processes and platform testing to ensure feature stability
 
 ### 💻 Full-Stack Web Developer — Freelance
-`📅 March 2023 – Present` &nbsp;·&nbsp; `🌍 Remote`
+`📅 December 2025 – Present` &nbsp;·&nbsp; `🌍 Remote`
 
 - 🌐 Designed, built, and deployed robust web portals for real clients end-to-end
 - 🏡 Key deployments: **Balaji Farm Stay**, **Riverside Farm**, **Yamuna Enterprises**
 - 📈 Delivered responsive, performance-optimized production applications
 
 ### 🎓 Event Coordinator — Annasaheb Vartak College
-`📅 Academic Years 2022 – 2024` &nbsp;·&nbsp; `📍 Mumbai, India`
+`📅 Academic Year 2025 – Present` &nbsp;·&nbsp; `📍 Mumbai, India`
 
 - 🎯 Organized a job fair for **2,000+ candidates** with **40+ corporate firms**
 - 🏆 Elected Coordinator for technical and cultural festivals
