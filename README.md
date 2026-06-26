@@ -16,21 +16,19 @@
 
 ### 🕹️ THE ARCADE PORTAL: SUPER MARIO
 
-Experience an interactive 8-bit platformer clone hosted directly on my profile! Jump over obstacles, squash Goombas, and save the flag.
+Experience an interactive 8-bit platformer clone directly from my profile! Jump over obstacles, squash Goombas, and save the flag.
 
 <p align="center">
-  <a href="https://riddheshkeni777-beep.github.io/riddheshkeni777-beep/mario/index.html">
+  <a href="https://meth-meth-method.github.io/super-mario/" target="_blank">
     <img src="https://media.giphy.com/media/YTETDeKcTRtA18AF32/giphy.gif" width="480" alt="Super Mario Retro Gameplay" style="border: 6px solid #e23636; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://riddheshkeni777-beep.github.io/riddheshkeni777-beep/mario/index.html">
+  <a href="https://meth-meth-method.github.io/super-mario/" target="_blank">
     <img src="https://img.shields.io/badge/LAUNCH_MARIO_PORTAL-PLAY_NOW!-e23636?style=for-the-badge&logo=nintendo-switch&logoColor=white" alt="Play Mario Badge" />
   </a>
 </p>
-
-*Note: Ensure GitHub Pages is enabled on this repository to activate the game portal.*
 
 <hr />
 
