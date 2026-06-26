@@ -53,30 +53,6 @@ const riddhesh = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="./trophy/trophy.svg" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten!
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 <details open>
@@ -154,15 +130,22 @@ const riddhesh = {
 
 ---
 
+## 🌐 Skill Proficiency
+
+| Skill | Level | Progress |
+|:------|:-----:|:--------:|
+| JavaScript / TypeScript | Expert | `████████████░░` 85% |
+| React.js | Advanced | `███████████░░░` 80% |
+| Node.js / Express | Advanced | `██████████░░░░` 75% |
+| Python & AI APIs | Intermediate+ | `█████████░░░░░` 70% |
+| MongoDB / Databases | Intermediate+ | `█████████░░░░░` 68% |
+| UI/UX & Tailwind CSS | Advanced | `██████████░░░░` 78% |
+| C++ | Intermediate | `████████░░░░░░` 60% |
+| DevOps / Deployment | Intermediate | `████████░░░░░░` 62% |
+
+---
+
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riddheshkeni777-beep&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
-<br/>
 
 <div align="center">
 
@@ -182,11 +165,35 @@ const riddhesh = {
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img width="100%" src="./trophy/trophy.svg" alt="GitHub Trophies" />
+
+</div>
+
+---
+
 ## 📈 Contribution Graph
 
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=riddheshkeni777-beep&bg_color=0d1117&color=a855f7&line=7c3aed&point=ffffff&area=true&hide_border=true&area_color=2d1b69" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/pratik1258m/riddheshkeni777-beep/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
@@ -254,21 +261,6 @@ const riddhesh = {
 | 🧬 Machine Learning Concepts | DevTown | AI & ML |
 | ☕ Python, SQL & JavaScript (Basic) | HackerRank | Programming |
 | 🎨 Design Systems 101 | edQuest | UI/UX Design |
-
----
-
-## 🌐 Skill Proficiency
-
-| Skill | Level | Progress |
-|:------|:-----:|:--------:|
-| JavaScript / TypeScript | Expert | `████████████░░` 85% |
-| React.js | Advanced | `███████████░░░` 80% |
-| Node.js / Express | Advanced | `██████████░░░░` 75% |
-| Python & AI APIs | Intermediate+ | `█████████░░░░░` 70% |
-| MongoDB / Databases | Intermediate+ | `█████████░░░░░` 68% |
-| UI/UX & Tailwind CSS | Advanced | `██████████░░░░` 78% |
-| C++ | Intermediate | `████████░░░░░░` 60% |
-| DevOps / Deployment | Intermediate | `████████░░░░░░` 62% |
 
 ---
 
