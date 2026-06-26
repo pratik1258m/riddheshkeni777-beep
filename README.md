@@ -12,6 +12,11 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=riddheshkeni777-beep&color=3b82f6&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/riddheshkeni777-beep?label=Followers&style=flat-square&color=10b981" alt="Followers" />
+</p>
+
+<p align="center">
   Welcome to my digital workspace. I am a Computer Science student and Full-Stack Developer specializing in building high-quality, secure, and responsive web applications with integrated Artificial Intelligence models.
 </p>
 
@@ -35,56 +40,15 @@ In addition to system engineering, I love classic game mechanics. Try out this f
 
 <hr style="border: 0; height: 1px; background: #334155; margin: 24px 0;" />
 
-### 🛠️ TECHNICAL CAPABILITIES
+### 🛠️ TECHNICAL CAPABILITIES & TOOLKIT
 
-<details open>
-  <summary><b>💻 Languages</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</details>
-
-<details open>
-  <summary><b>⚙️ Frameworks & Libraries</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</details>
-
-<details open>
-  <summary><b>🧠 Databases & AI Systems</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
-  <img src="https://img.shields.io/badge/REST_APIs-008080?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
-</details>
-
-<details open>
-  <summary><b>🔧 Development Tools</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Celonis-000000?style=flat-square&logo=celonis&logoColor=white" alt="Celonis" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</details>
-
-<details>
-  <summary><b>🗣️ Languages Spoken</b></summary>
-  <br />
-  <img src="https://img.shields.io/badge/English-Professional_Working-475569?style=flat-square" alt="English" />
-  <img src="https://img.shields.io/badge/Hindi-Professional_Working-475569?style=flat-square" alt="Hindi" />
-  <img src="https://img.shields.io/badge/Marathi-Native_or_Bilingual-475569?style=flat-square" alt="Marathi" />
-</details>
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Frameworks & Libraries** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Databases & AI** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI_APIs-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-008080?style=flat-square&logo=postman&logoColor=white) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Celonis](https://img.shields.io/badge/Celonis-000000?style=flat-square&logo=celonis&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| **Spoken Languages** | English (Professional Working) \| Hindi (Professional Working) \| Marathi (Native) |
 
 <hr style="border: 0; height: 1px; background: #334155; margin: 24px 0;" />
 
